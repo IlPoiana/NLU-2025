@@ -1,0 +1,21 @@
+# jupyter
+*.ipynb
+
+# raw report
+Report.md
+
+# wandb dir
+wandb/*
+
+# nlu_env
+*.yaml
+
+# script tester
+main_parse.py
+
+# binary files
+bin/*
+*.pt
+
+# zip files
+*.zip
